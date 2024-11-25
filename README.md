@@ -1,2 +1,1 @@
-# Uno
- numero 1 aquí
+Proyecto sistema local para manejo de una viniladora (Preparatoria)
